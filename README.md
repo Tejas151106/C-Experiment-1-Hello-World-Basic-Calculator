@@ -1,4 +1,6 @@
 EXPERIMENT 1
+
+
 NAME:Gandluri sai tejas
 
 
@@ -20,7 +22,9 @@ Objectives
 🔹 Know why we use 'using namespace std;'.
 
 🔹 Use of // to write comments in code for better understanding of code.
+
 Program Explanation
+
 Basic Operations and Terms used
 
     #include tells the computer to use input and output functions
